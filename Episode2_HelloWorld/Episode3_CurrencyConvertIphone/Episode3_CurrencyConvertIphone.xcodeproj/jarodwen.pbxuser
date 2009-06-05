@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {699, 574}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{188, 598}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 602}}";
+			sepNavSelRange = "{873, 0}";
+			sepNavVisRange = "{0, 350}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Episode3_CurrencyConvertIphone */ = {
+		activeExec = 0;
+		executables = (
+			3FA13B6E0FD1C4E1005FCD6E /* Episode3_CurrencyConvertIphone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3FA13B6E0FD1C4E1005FCD6E /* Episode3_CurrencyConvertIphone */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Episode3_CurrencyConvertIphone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Episode3_CurrencyConvertIphone */,
+		);
+		codeSenseManager = 3FA13B7F0FD1C4EF005FCD6E /* Code sense */;
+		executables = (
+			3FA13B6E0FD1C4E1005FCD6E /* Episode3_CurrencyConvertIphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265405665;
+			PBXWorkspaceStateSaveDate = 265405665;
+		};
+		perUserProjectItems = {
+			3FA13B8E0FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B8E0FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B8F0FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B8F0FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B900FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B900FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B910FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B910FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B920FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B920FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B930FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B930FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B940FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B940FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B950FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B950FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13B960FD1C8ED005FCD6E /* PBXTextBookmark */ = 3FA13B960FD1C8ED005FCD6E /* PBXTextBookmark */;
+			3FA13BB90FD1CC76005FCD6E /* PBXTextBookmark */ = 3FA13BB90FD1CC76005FCD6E /* PBXTextBookmark */;
+			3FA13BBA0FD1CC76005FCD6E /* PBXTextBookmark */ = 3FA13BBA0FD1CC76005FCD6E /* PBXTextBookmark */;
+			3FA13BD20FD1CDA9005FCD6E /* PBXTextBookmark */ = 3FA13BD20FD1CDA9005FCD6E /* PBXTextBookmark */;
+			3FA13BD30FD1CDA9005FCD6E /* PBXTextBookmark */ = 3FA13BD30FD1CDA9005FCD6E /* PBXTextBookmark */;
+			3FA13BD40FD1CDA9005FCD6E /* PBXTextBookmark */ = 3FA13BD40FD1CDA9005FCD6E /* PBXTextBookmark */;
+			3FA13BE70FD1D4F6005FCD6E /* PBXTextBookmark */ = 3FA13BE70FD1D4F6005FCD6E /* PBXTextBookmark */;
+			3FA13BEB0FD1D52D005FCD6E /* PBXTextBookmark */ = 3FA13BEB0FD1D52D005FCD6E /* PBXTextBookmark */;
+			3FA13C2F0FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C2F0FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C300FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C300FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C310FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C310FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C320FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C320FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C330FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C330FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C340FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C340FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C350FD1EE76005FCD6E /* PBXTextBookmark */ = 3FA13C350FD1EE76005FCD6E /* PBXTextBookmark */;
+			3FA13C3B0FD1EF10005FCD6E /* PBXTextBookmark */ = 3FA13C3B0FD1EF10005FCD6E /* PBXTextBookmark */;
+			3FA13C3C0FD1EF10005FCD6E /* PBXTextBookmark */ = 3FA13C3C0FD1EF10005FCD6E /* PBXTextBookmark */;
+			3FA13C430FD228C8005FCD6E /* PBXTextBookmark */ = 3FA13C430FD228C8005FCD6E /* PBXTextBookmark */;
+			3FA13C440FD228C8005FCD6E /* PBXTextBookmark */ = 3FA13C440FD228C8005FCD6E /* PBXTextBookmark */;
+			3FA13C450FD228C8005FCD6E /* PBXTextBookmark */ = 3FA13C450FD228C8005FCD6E /* PBXTextBookmark */;
+			3FA13C460FD228C8005FCD6E /* PBXTextBookmark */ = 3FA13C460FD228C8005FCD6E /* PBXTextBookmark */;
+			3FA13C470FD228C8005FCD6E /* PBXTextBookmark */ = 3FA13C470FD228C8005FCD6E /* PBXTextBookmark */;
+			3FA13C580FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C580FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C590FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C590FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5A0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5A0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5B0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5B0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5C0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5C0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5D0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5D0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5E0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5E0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C5F0FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C5F0FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C600FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C600FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C610FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C610FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C620FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C620FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C630FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C630FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C640FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C640FD23246005FCD6E /* PBXTextBookmark */;
+			3FA13C650FD23246005FCD6E /* PBXTextBookmark */ = 3FA13C650FD23246005FCD6E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3FA13B7E0FD1C4EF005FCD6E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3FA13B6E0FD1C4E1005FCD6E /* Episode3_CurrencyConvertIphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Episode3_CurrencyConvertIphone;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	3FA13B7E0FD1C4EF005FCD6E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	3FA13B7F0FD1C4EF005FCD6E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3FA13B830FD1C804005FCD6E /* ConverterModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {699, 443}}";
+			sepNavSelRange = "{67, 0}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	3FA13B840FD1C804005FCD6E /* ConverterModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {699, 443}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 310}";
+		};
+	};
+	3FA13B8E0FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 29";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 367;
+	};
+	3FA13B8F0FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 3;
+	};
+	3FA13B900FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	3FA13B910FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 24;
+	};
+	3FA13B920FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 29";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	3FA13B930FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	3FA13B940FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 29";
+		rLen = 0;
+		rLoc = 721;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	3FA13B950FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	3FA13B960FD1C8ED005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 3;
+	};
+	3FA13BB90FD1CC76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 875;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 425;
+	};
+	3FA13BBA0FD1CC76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 528;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 89;
+	};
+	3FA13BD20FD1CDA9005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 818;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 426;
+	};
+	3FA13BD30FD1CDA9005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 3;
+	};
+	3FA13BD40FD1CDA9005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13BE70FD1D4F6005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 838;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 523;
+	};
+	3FA13BEB0FD1D52D005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 528;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 89;
+	};
+	3FA13C2F0FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 782;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 0;
+	};
+	3FA13C300FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	3FA13C310FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C320FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	3FA13C330FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	3FA13C340FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 904;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 189;
+	};
+	3FA13C350FD1EE76005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 189;
+	};
+	3FA13C3B0FD1EF10005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 1057;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 3;
+	};
+	3FA13C3C0FD1EF10005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C430FD228C8005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 873;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	3FA13C440FD228C8005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C450FD228C8005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C460FD228C8005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	3FA13C470FD228C8005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C580FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1059;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	3FA13C590FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C5A0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C5B0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	3FA13C5C0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1059;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	3FA13C5D0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 189;
+	};
+	3FA13C5E0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C5F0FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	3FA13C600FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C610FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C620FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1059;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	3FA13C630FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.h */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 598;
+		vrLoc = 188;
+	};
+	3FA13C640FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B840FD1C804005FCD6E /* ConverterModel.m */;
+		name = "ConverterModel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	3FA13C650FD23246005FCD6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3FA13B830FD1C804005FCD6E /* ConverterModel.h */;
+		name = "ConverterModel.h: 5";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+}

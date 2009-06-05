@@ -1,0 +1,113 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {702, 634}}";
+			sepNavSelRange = "{729, 175}";
+			sepNavVisRange = "{588, 478}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Episode3_CurrencyConvertIphone */ = {
+		activeExec = 0;
+		executables = (
+			958506250FD2580B00B7FD47 /* Episode3_CurrencyConvertIphone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 958506250FD2580B00B7FD47 /* Episode3_CurrencyConvertIphone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Episode3_CurrencyConvertIphone */;
+		codeSenseManager = 9585063D0FD2582500B7FD47 /* Code sense */;
+		executables = (
+			958506250FD2580B00B7FD47 /* Episode3_CurrencyConvertIphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 265443339;
+			PBXWorkspaceStateSaveDate = 265443339;
+		};
+		perUserProjectItems = {
+			958506470FD2755800B7FD47 /* PBXTextBookmark */ = 958506470FD2755800B7FD47 /* PBXTextBookmark */;
+			958506480FD2755800B7FD47 /* PBXTextBookmark */ = 958506480FD2755800B7FD47 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9585063C0FD2582500B7FD47 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	958506250FD2580B00B7FD47 /* Episode3_CurrencyConvertIphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Episode3_CurrencyConvertIphone;
+		sourceDirectories = (
+		);
+	};
+	9585063C0FD2582500B7FD47 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9585063D0FD2582500B7FD47 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	958506470FD2755800B7FD47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	958506480FD2755800B7FD47 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Episode3_CurrencyConvertIphoneAppDelegate.m */;
+		name = "Episode3_CurrencyConvertIphoneAppDelegate.m: 34";
+		rLen = 175;
+		rLoc = 729;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 588;
+	};
+}
