@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Episode2_HelloWorld' target in the 'Episode2_HelloWorld' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
