@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Episode3_CurrencyConverter' target in the 'Episode3_CurrencyConverter' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
