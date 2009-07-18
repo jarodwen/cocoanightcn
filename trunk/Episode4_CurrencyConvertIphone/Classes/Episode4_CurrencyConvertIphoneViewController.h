@@ -29,7 +29,11 @@
 @property(nonatomic, retain) id amountField;
 @property(nonatomic, retain) id outputField;
 @property(nonatomic, retain) NSArray *fromList;
-@property(nonatomic, retain) NSArray *toList;
+
+// 这里我们不使用@property的定义形式，目的是用来
+// 说明在实现setter函数时需要注意的内存问题。
+-(NSArray *)toList;
+-(void)setToList:(NSArray *)list;
 
 -(void)doConvert;
 - (float)getRate:(int)cur;
