@@ -12,7 +12,6 @@
 
 @synthesize doublePicker;
 @synthesize fromList;
-@synthesize toList;
 @synthesize amountField;
 @synthesize outputField;
 
@@ -37,7 +36,8 @@
 - (void)viewDidLoad {
 	[super viewDidLoad];
 	NSArray *curArray = [[NSArray alloc] initWithObjects:@"CNY", @"USD", @"EUR", @"GBP", @"JPY", nil];
-    self.toList = curArray;
+	// 如果我们使用@property来定义toList，这里就可以直接使用self.toList进行取值与赋值。
+    [self setToList:curArray];
 	self.fromList = curArray;
 	[curArray release];
 }
@@ -67,6 +67,21 @@
 	[toList release];
 	[fromList release];
     [super dealloc];
+}
+
+#pragma mark --- toList的getter和setter ---
+
+-(NSArray *)toList{
+	return toList;
+}
+
+-(void)setToList:(NSArray *)list{
+	// 首先需要保持对新的内容的引用，即申明目前的对象是list的所有者之一。
+	[list retain];
+	// 然后需要释放对原先的对象的所有权。
+	[toList release];
+	// 进行赋值。
+	toList = list;
 }
 
 #pragma mark --- 选择器的数据源 ---
