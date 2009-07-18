@@ -124,6 +124,8 @@
 	}
 }
 
+#pragma mark --- 选择器更改响应事件 ---
+
 - (void)pickerView:(UIPickerView *)thePickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component {
 	[amountField resignFirstResponder];
 	[self doConvert];
