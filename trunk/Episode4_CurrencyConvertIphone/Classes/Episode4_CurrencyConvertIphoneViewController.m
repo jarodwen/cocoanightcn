@@ -122,6 +122,58 @@
 		default:
 			return 0.00;
 	}
+	
+	if(DO_TEST == 1){
+		// 下面的代码来自于教程： http://memo.tv/memory_management_with_objective_c_cocoa_iphone
+		// 英文比较过硬的兄弟，推荐好好阅读一下。
+		// 比较繁琐的内存管理办法：
+		for(int i=0; i<100; i++) { 
+			NSNumber *aNumber1 = [[NSNumber alloc] initWithFloat:1]; // refcount is 1, you are owner
+			NSNumber *aNumber2 = [[NSNumber alloc] initWithFloat:2]; // refcount is 1, you are owner
+			NSNumber *aNumber3 = [[NSNumber alloc] initWithFloat:3]; // refcount is 1, you are owner
+			NSNumber *aNumber4 = [[NSNumber alloc] initWithFloat:4]; // refcount is 1, you are owner
+			NSNumber *aNumber5 = [[NSNumber alloc] initWithFloat:5]; // refcount is 1, you are owner
+			NSNumber *aNumber6 = [[NSNumber alloc] initWithFloat:6]; // refcount is 1, you are owner
+			
+			// ... do a bunch of stuff with all objects above.
+			NSLog(@"Print Number %d\n", [aNumber1 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber2 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber3 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber4 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber5 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber6 integerValue]);
+			
+			// release all objects
+			[aNumber1 release]; 
+			[aNumber2 release];
+			[aNumber3 release];
+			[aNumber4 release];
+			[aNumber5 release];
+			[aNumber6 release]; 
+		} 
+		// 使用自动释放池和快捷生成函数简化代码：
+		for(int i=0; i<100; i++) {  
+			NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init]; // create your own little autorelease pool
+			
+			// these objects get added to the autorelease pool you created above 
+			NSNumber *aNumber1 = [NSNumber numberWithFloat:1]; // refcount is 1, you are not owner, will be automatically released
+			NSNumber *aNumber2 = [NSNumber numberWithFloat:2]; // refcount is 1, you are not owner, will be automatically released
+			NSNumber *aNumber3 = [NSNumber numberWithFloat:3]; // refcount is 1, you are not owner, will be automatically released
+			NSNumber *aNumber4 = [NSNumber numberWithFloat:4]; // refcount is 1, you are not owner, will be automatically released
+			NSNumber *aNumber5 = [NSNumber numberWithFloat:5]; // refcount is 1, you are not owner, will be automatically released
+			NSNumber *aNumber6 = [NSNumber numberWithFloat:6]; // refcount is 1, you are not owner, will be automatically released
+			
+			// ... do a bunch of stuff with all objects above.
+			NSLog(@"Print Number %d\n", [aNumber1 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber2 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber3 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber4 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber5 integerValue]);
+			NSLog(@"Print Number %d\n", [aNumber6 integerValue]);
+			
+			[pool release]; // all objects added to this pool (the ones above) are released 
+		}
+	}
 }
 
 #pragma mark --- 选择器更改响应事件 ---

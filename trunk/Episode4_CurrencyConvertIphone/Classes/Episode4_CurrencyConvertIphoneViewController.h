@@ -15,6 +15,8 @@
 #define rUSD 0.14614
 #define rJPY 13.608
 
+#define DO_TEST 0
+
 @interface Episode4_CurrencyConvertIphoneViewController : UIViewController {
 	IBOutlet id doublePicker;			/**< 选择器 */
 	IBOutlet id amountField;			/**< 输入 */
