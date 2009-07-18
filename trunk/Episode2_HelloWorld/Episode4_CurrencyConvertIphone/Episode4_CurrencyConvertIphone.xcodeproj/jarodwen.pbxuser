@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Episode4_CurrencyConvertIphone */ = {
+		activeExec = 0;
+		executables = (
+			3FF556D910119D9600890A5F /* Episode4_CurrencyConvertIphone */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {594, 532}}";
+			sepNavSelRange = "{754, 0}";
+			sepNavVisRange = "{348, 562}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 1988}}";
+			sepNavSelRange = "{3237, 0}";
+			sepNavVisRange = "{3067, 277}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3FF556D910119D9600890A5F /* Episode4_CurrencyConvertIphone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Episode4_CurrencyConvertIphone */;
+		codeSenseManager = 3FF556E410119DB400890A5F /* Code sense */;
+		executables = (
+			3FF556D910119D9600890A5F /* Episode4_CurrencyConvertIphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 269597900;
+			PBXWorkspaceStateSaveDate = 269597900;
+		};
+		perUserProjectItems = {
+			3F31000A1011AEA20032DBF5 = 3F31000A1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F31000B1011AEA20032DBF5 = 3F31000B1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F31000C1011AEA20032DBF5 = 3F31000C1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F31000D1011AEA20032DBF5 = 3F31000D1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F31000E1011AEA20032DBF5 = 3F31000E1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F31000F1011AEA20032DBF5 = 3F31000F1011AEA20032DBF5 /* PBXTextBookmark */;
+			3F3100381011B07B0032DBF5 = 3F3100381011B07B0032DBF5 /* PBXTextBookmark */;
+			3F31004C1011B0B00032DBF5 = 3F31004C1011B0B00032DBF5 /* PBXTextBookmark */;
+			3F3100581011B23A0032DBF5 = 3F3100581011B23A0032DBF5 /* PBXTextBookmark */;
+			3F3100611011B44A0032DBF5 = 3F3100611011B44A0032DBF5 /* PBXTextBookmark */;
+			3F3100691011B55F0032DBF5 = 3F3100691011B55F0032DBF5 /* PBXTextBookmark */;
+			3F31006B1011B55F0032DBF5 = 3F31006B1011B55F0032DBF5 /* PBXTextBookmark */;
+			3F31006C1011B55F0032DBF5 = 3F31006C1011B55F0032DBF5 /* PBXTextBookmark */;
+			3F31006D1011B55F0032DBF5 = 3F31006D1011B55F0032DBF5 /* PBXTextBookmark */;
+			3F3100731011B58B0032DBF5 = 3F3100731011B58B0032DBF5 /* PBXTextBookmark */;
+			3F3100881011BC910032DBF5 = 3F3100881011BC910032DBF5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3FF556E310119DB400890A5F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3F31000A1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 74";
+		rLen = 0;
+		rLoc = 1915;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 1808;
+	};
+	3F31000B1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 32";
+		rLen = 0;
+		rLoc = 833;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 328;
+	};
+	3F31000C1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 107";
+		rLen = 0;
+		rLoc = 2884;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 89;
+	};
+	3F31000D1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 25";
+		rLen = 0;
+		rLoc = 585;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 328;
+	};
+	3F31000E1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 107";
+		rLen = 25;
+		rLoc = 2864;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 2703;
+	};
+	3F31000F1011AEA20032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 33";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 349;
+	};
+	3F3100381011B07B0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 54";
+		rLen = 0;
+		rLoc = 1619;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 1137;
+	};
+	3F31004C1011B0B00032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 33";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 426;
+	};
+	3F3100581011B23A0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 128";
+		rLen = 45;
+		rLoc = 3241;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 2995;
+	};
+	3F3100611011B44A0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 27";
+		rLen = 0;
+		rLoc = 655;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 217;
+	};
+	3F3100691011B55F0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 129";
+		rLen = 0;
+		rLoc = 3286;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 2995;
+	};
+	3F31006B1011B55F0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 129";
+		rLen = 45;
+		rLoc = 3241;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 3011;
+	};
+	3F31006C1011B55F0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 34";
+		rLen = 45;
+		rLoc = 862;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 349;
+	};
+	3F31006D1011B55F0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.m */;
+		name = "Episode4_CurrencyConvertIphoneViewController.m: 129";
+		rLen = 0;
+		rLoc = 3286;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 2995;
+	};
+	3F3100731011B58B0032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 29";
+		rLen = 0;
+		rLoc = 754;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 586;
+	};
+	3F3100881011BC910032DBF5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Episode4_CurrencyConvertIphoneViewController.h */;
+		name = "Episode4_CurrencyConvertIphoneViewController.h: 29";
+		rLen = 0;
+		rLoc = 754;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 348;
+	};
+	3FF556D910119D9600890A5F /* Episode4_CurrencyConvertIphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Episode4_CurrencyConvertIphone;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	3FF556E310119DB400890A5F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "";
+		};
+	};
+	3FF556E410119DB400890A5F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
