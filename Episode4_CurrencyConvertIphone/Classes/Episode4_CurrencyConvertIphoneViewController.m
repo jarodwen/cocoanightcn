@@ -39,7 +39,7 @@
 	NSArray *curArray = [[NSArray alloc] initWithObjects:@"CNY", @"USD", @"EUR", @"GBP", @"JPY", nil];
     self.toList = curArray;
 	self.fromList = curArray;
-	//[curArray release];
+	[curArray release];
 }
 
 
@@ -101,7 +101,10 @@
 	
 	float amount = [[amountField text] floatValue] * [self getRate:toRow] / [self getRate:fromRow];
 	
+	// 正确的代码
 	[outputField setText:[NSString stringWithFormat:@"%0.2f", amount]];
+	// 导致内存泄露的代码
+	//[outputField setText:[[NSString alloc] initWithFormat:@"%0.2f", amount]];
 }
 
 - (float)getRate:(int)cur{
